@@ -1,0 +1,20 @@
+p {
+    background-color: #d4637c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#id1 {
+    font-size: 36px;
+    color: #0000ff;
+
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
